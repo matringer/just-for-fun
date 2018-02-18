@@ -1,0 +1,24 @@
+facts_file = c:\\temp\\facts\\facts.txt
+
+# images
+answer_correct_image = c:\\temp\\facts\\kids-thumbs-up.jpg
+answer_wrong_image = c:\\temp\\facts\\kids-thumbs-down.jpg
+all_done_image = c:\\temp\\facts\\happy-dude.jpg
+foot_ball_field_image = c:\\temp\\facts\\football-field.png
+
+team_image_1 = c:\\temp\\facts\\player-1.jpg
+team_image_2 = c:\\temp\\facts\\player-2.jpg
+team_image_3 = c:\\temp\\facts\\player-3.jpg
+team_image_4 = c:\\temp\\facts\\player-4.jpg
+
+font_file=c:\\temp\\facts\\Mangal-Bold-24.vlw
+
+# how much of each color to use - max is 255
+# orange:  255, 100, 0
+# pink:  255, 100, 100
+background_color_red = 200
+background_color_green = 200
+background_color_blue = 200
+
+
+max_questions = 100
